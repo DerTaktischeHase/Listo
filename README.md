@@ -56,3 +56,4 @@ Shopping lists are teamwork – but paper notes get lost, screenshots are static
 ```bash
 git clone https://github.com/DerTaktischeHase/Listo.git
 cd Listo
+```
