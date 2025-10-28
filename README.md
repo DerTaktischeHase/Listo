@@ -1,7 +1,9 @@
-> **🚧 Work in Progress**  
-> Listo is still under active development. Screens, flows – expect rough edges, missing edge-cases and the occasional crash.  
-> Stable 1.0 is planned for late 2025; until then every commit is a snapshot, not a promise.  
+> [!caution] 
+> **Listo is still under active development** - Screens, flows – expect rough edges, missing edge-cases and the occasional crash.  
+> Stable v1.0.0 is planned for late 2025; until then every commit is a snapshot, not a promise.  
 > Feedback, issues and pull-requests are already welcome – help us shape the final experience!
+
+ ---
 
 # Listo – Shared Grocery Lists
 Real-time, offline-first & multilingual grocery lists for families, roommates and friends.
@@ -11,14 +13,6 @@ Real-time, offline-first & multilingual grocery lists for families, roommates an
        src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80"/>
 </a>
 
-| | |
-|-|-|
-| **Minimal SDK** | 24 (Android 7.0) |
-| **Target SDK** | 34 |
-| **Languages** | Kotlin |
-| **License** | MIT |
-| **Size** | N/A |
-
 ---
 
 ## 🌟 Vision
@@ -27,32 +21,14 @@ Shopping lists are teamwork – but paper notes get lost, screenshots are static
 
 ---
 
-## ✅ Current Features
-| Feature | Status |
-|---------|--------|
-| Create unlimited lists | ❌ |
-| 6-digit invite codes | ❌ |
-| Join via code or dynamic link | ❌ |
-| Real-time sync (Firestore) | ❌ |
-| Offline caching & automatic sync | ❌ |
-| Dark / Light theme (Material 3) | ❌ |
-| Categories & amount per item | ❌ |
-| Roles: Owner / Admin / Member | ❌ |
-| Push notifications (who checked what) | ❌ |
-| Export list as PDF / print | ❌ |
-| Barcode scanner (optional) | ❌ |
-| Multilingual (EN, DE, ES – more soon) | ❌ |
-| Adaptive app icon (Android 13 themed icons) | ❌ |
-| Crashlytics & performance monitoring | ❌ |
+## ✅ ToDo's
+- [ ] Draw ideas for UI on paper
+- [ ] Finish the idea for UI on PC \(with Justinmind)
+- [ ] Create first UI on Android Studio
+- [ ] having a lts UI version
+- [ ] brainstorm about Features \(...) 
 
----
-
-## 🚀 Roadmap (next releases)
-| Version | Milestone |
-|---------|-----------|
-| N/A | N/A |
-
-### 2. Clone & open
+### 2. Clone & open (for develeopers)
 ```bash
 git clone https://github.com/DerTaktischeHase/Listo.git
 cd Listo
