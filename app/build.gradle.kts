@@ -1,3 +1,9 @@
+/*******************************************************************************
+ * Copyright © 2025 DerTaktischeHase. All rights reserved.
+ * Any use only with prior written permission.
+ * No liability for errors or omissions.
+ ******************************************************************************/
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)

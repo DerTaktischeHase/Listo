@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ~ Copyright © 2025 DerTaktischeHase. All rights reserved.
+  ~ Any use only with prior written permission.
+  ~ No liability for errors or omissions.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
 <resources>
 
     <style name="Theme.Listo" parent="android:Theme.Material.Light.NoActionBar" />

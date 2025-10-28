@@ -1,5 +1,11 @@
 #!/usr/bin/env sh
 
+################################################################################
+# Copyright © 2025 DerTaktischeHase. All rights reserved.
+# Any use only with prior written permission.
+# No liability for errors or omissions.
+################################################################################
+
 #
 # Copyright 2015 the original author or authors.
 #
